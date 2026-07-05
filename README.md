@@ -1,10 +1,9 @@
 # Hi 👋, I'm Xinyu Li
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inulxy" alt="inulxy" /></a> </p>
 
-- 🔭 I'm currently a Yale CBB MS '28 student
+- 📖 Yale CBB MS '28 student
 
-- 🌱 I'm currently interested in **Computational Biology | Bioinformatics | Ai4S**
+- 🧬 Computational Biology | Bioinformatics | Ai4S
 
 - 📫 Reach me at **xinyu.li@yale.edu**
 
