@@ -1,7 +1,7 @@
 # Hi 👋, I'm Xinyu Li
 
 
-- 📖 Yale CBB MS '28 student
+- 📖 Yale CBB MS student
 
 - 🧬 Computational Biology | Bioinformatics | Ai4S
 
